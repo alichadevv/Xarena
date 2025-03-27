@@ -5,7 +5,7 @@ export default function Footer() {
       Made with {`<3`} by{" "}
       <a
         className="text-pink-200"
-        href="https://github.com/asrvd"
+        href="https://github.com/Xydlan"
         target={"_blank"}
         rel="noreferrer"
       >
@@ -14,7 +14,7 @@ export default function Footer() {
       {" // "}
       <a
         className="text-pink-200"
-        href="https://github.com/asrvd/lyrist"
+        href="https://github.com/Xydlan/Xarena"
         target={"_blank"}
         rel="noreferrer"
       >
@@ -28,7 +28,7 @@ export default function Footer() {
         <img
           height="34px"
           src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg"
-          alt="Powered by vercel"
+          alt="Powered by Xydlan"
         />
       </a>
     </p>
