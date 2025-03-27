@@ -1,10 +1,10 @@
 import Layout from "../components/Layout";
 
 const responseObject = `{
-  "title": "Fumes",
-  "artist": "EDEN",
-  "lyrics": "The morning light...",
-  "source": "Musixmatch"
+  "title": "Fomo Ae Lu Bocil Epep",
+  "artist": "XYDLAN",
+  "xarena": "The morning light...",
+  "source": "Xydlan"
 }`;
 
 export default function Guide() {
@@ -15,7 +15,7 @@ export default function Guide() {
           lyrist
         </h2>
         <p className="text-center text-base text-pink-100 md:text-lg">
-          a simple and easy to use RESTful lyrics API that just works, please note that you can only make 150 requests per hour to prevent abuse of the API.
+          a simple and easy to use RESTful Xarena API that just works, please note that you can only make 150 requests per hour to prevent abuse of the API.
         </p>
       </section>
       <section className="mt-4 flex w-full flex-col items-center justify-center gap-4 p-2 md:w-2/3 lg:w-1/2">

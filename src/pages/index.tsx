@@ -74,7 +74,7 @@ const Home: NextPage = () => {
           lyrist
         </h2>
         <p className="text-center text-base text-pink-100 md:text-xl">
-          a simple and easy to use RESTful lyrics API that just works
+          a simple and easy to use RESTful xarena API that just works
         </p>
       </section>
       <section className="flex w-full flex-col items-center justify-center gap-4 p-2 md:w-2/3 lg:w-1/2">
